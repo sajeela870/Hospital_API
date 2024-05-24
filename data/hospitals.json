@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1716360203851",
+    "name": "medical Hospital",
+    "patientCount": 50,
+    "location": "Downtown"
+  },
+  {
+    "id": "1716360431220",
+    "name": "general Hospital",
+    "patientCount": 1120,
+    "location": "Downtown"
+  },
+  {
+    "id": "1716360448847",
+    "name": "city Hospital",
+    "patientCount": 200,
+    "location": "Downtown"
+  },
+  {
+    "id": "1716360460826",
+    "name": "medical Hospital",
+    "patientCount": 500,
+    "location": "Downtown"
+  }
+]
